@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=4000&color=FF00FF&center=true&vCenter=true&width=600&repeat=false&lines=Simplicity+is+prerequisite+for+reliability.+-+Edsger+W.+Dijkstra;Stay+hungry,+stay+foolish.+-+Steve+Jobs;Less+is+more.+-+Ludwig+Mies+van+der+Roh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=4000&color=FF00FF&center=true&vCenter=true&width=620&repeat=false&lines=Simplicity+is+prerequisite+for+reliability.+-+Edsger+W.+Dijkstra;Stay+hungry,+stay+foolish.+-+Steve+Jobs;Less+is+more.+-+Ludwig+Mies+van+der+Roh;The+hottest+new+programming+language+is+English.+-+Andrej+Karpathy;Data+is+the+fossil+fuel+of+artificial+intelligence.+-+Ilya+Sutskever;We+don%27t+even+have+a+machine+as+smart+as+a+cat.+-+Yann+LeCun" />
 </p>
 
 ---
