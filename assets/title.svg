@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <defs>
+    <style>
+      @keyframes scanline {
+        0% { transform: translateY(-60px); }
+        100% { transform: translateY(60px); }
+      }
+      @keyframes glitch1 {
+        0%, 100% { transform: translate(0); }
+        92% { transform: translate(-2px, 1px); }
+        94% { transform: translate(2px, -1px); }
+        96% { transform: translate(0); }
+      }
+      @keyframes glitch2 {
+        0%, 100% { opacity: 0; }
+        92.5% { opacity: 0.3; transform: translate(3px, -1px); }
+        93% { opacity: 0; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+      .scanline {
+        animation: scanline 3s linear infinite;
+      }
+      .glitch1 {
+        animation: glitch1 5s ease-in-out infinite;
+      }
+      .glitch2 {
+        animation: glitch2 5s ease-in-out infinite;
+      }
+      .pulse {
+        animation: pulse 2s ease-in-out infinite;
+      }
+    </style>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00ff" />
+      <stop offset="50%" stop-color="#00ffff" />
+      <stop offset="100%" stop-color="#ff00ff" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Scan lines -->
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#ff00ff" stroke-width="0.3" opacity="0.3" class="scanline" />
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#00ffff" stroke-width="0.2" opacity="0.2" class="scanline" />
+
+  <!-- Left bracket -->
+  <text x="180" y="40" font-family="monospace" font-size="32" fill="url(#g)" filter="url(#glow)" opacity="0.5">[</text>
+
+  <!-- Main text -->
+  <text x="210" y="42" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="url(#g)" filter="url(#glow)" class="glitch1">biberbbh</text>
+
+  <!-- Glitch overlay -->
+  <text x="210" y="42" font-family="'Courier New', monospace" font-size="28" font-weight="bold" fill="#00ffff" class="glitch2" opacity="0">biberbbh</text>
+
+  <!-- Right bracket -->
+  <text x="490" y="40" font-family="monospace" font-size="32" fill="url(#g)" filter="url(#glow)" opacity="0.5">]</text>
+
+  <!-- Blinking cursor -->
+  <rect x="504" y="18" width="3" height="28" fill="#ff00ff" class="pulse" />
+</svg>
