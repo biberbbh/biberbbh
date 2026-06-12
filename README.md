@@ -32,6 +32,14 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biberbbh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=00ffff" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biberbbh&theme=radical&hide_border=true&background=0d1117&ring=ff00ff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ff00ff&dates=888888&stroke=ff00ff&currStreakNum=00ffff&sideNums=ff00ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biberbbh&theme=react-dark&bg_color=0d1117&color=ff00ff&line=00ffff&point=ff00ff&area=true&hide_border=true&area_color=ff00ff20" />
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/biberbbh/biberbbh/main/assets/divider.svg" alt="" width="400" />
 </div>
