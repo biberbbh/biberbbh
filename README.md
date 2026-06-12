@@ -9,14 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=2000&color=FF00FF&center=true&vCenter=true&width=600&lines=Simplicity+is+prerequisite+for+reliability.+-+Edsger+W.+Dijkstra;Stay+hungry,+stay+foolish.+-+Steve+Jobs;%E4%BD%A0%E6%89%8B%E4%B8%AD%E6%8F%A1%E7%9D%80%E5%8D%83%E5%86%9B%E4%B8%87%E9%A9%AC%E2%80%94%E4%BD%A0%E8%87%AA%E5%B7%B1;Less+is+more.+-+Ludwig+Mies+van+der+Roh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=4000&color=FF00FF&center=true&vCenter=true&width=600&repeat=false&lines=Simplicity+is+prerequisite+for+reliability.+-+Edsger+W.+Dijkstra;Stay+hungry,+stay+foolish.+-+Steve+Jobs;Less+is+more.+-+Ludwig+Mies+van+der+Roh" />
 </p>
 
 ---
-
-<p align="center">
-  <i>「 你手中握着千军万马——你自己。 」</i>
-</p>
 
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=fff&labelColor=ff00ff" />
