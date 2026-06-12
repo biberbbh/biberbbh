@@ -2,45 +2,46 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff00ff&height=220&section=header&text=SYS::AUTH%20—%20biberbbh&fontSize=52&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=ACCESSING_THE_GRID...&descSize=18&descColor=00ffff&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff00ff&height=220&section=header&text=SYS::AUTH%20—%20biberbbh&fontSize=52&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=你已进入霓虹网格&descSize=18&descColor=00ffff&descAlignY=55)
 
 </div>
 
-<!-- 霓虹打字机 -->
+<!-- 霓虹打字机 — 中英双语 -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING_SECURE_CONNECTION...;%3E+BIOMETRIC_SCAN+PASSED;%3E+NEURAL_LINK_ESTABLISHED;%3E+ACCESS_LEVEL%3A+ADMIN;%3E+WELCOME_TO_THE_GRID%2C+OPERATOR;%3E+LOADING_PROFILE_DATA...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+正在建立加密连接...;%3E+生物特征扫描已通过;%3E+神经链接已同步;%3E+访问权限：管理员;%3E+欢迎进入矩阵%2C+操作员;%3E+系统启动中...;%3E+INITIALIZING_SECURE_CONNECTION...;%3E+BIOMETRIC_SCAN_PASSED;%3E+NEURAL_LINK_ESTABLISHED;%3E+WELCOME_TO_THE_GRID%2C+OPERATOR)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ `> SYSTEM_STATUS`
+## 🧬 `> 系统状态 // SYSTEM_STATUS`
 
 <table align="center">
 <tr>
 <td>
 
 ```bash
-[████████████████████████] 100% │ FIREWALL_ACTIVE
-[█████████████████░░░░░░░]  85% │ CPU_OVERCLOCKED
-[██████████████████████░░]  92% │ NEURAL_LINK_SYNC
-[████████████████████████] 100% │ ENCRYPTION_AES-256
-[█████████████████████░░░]  90% │ DOPAMINE_LEVELS
+[████████████████████████] 100% │ 防火墙已激活
+[█████████████████░░░░░░░]  85% │ CPU 超频运行
+[██████████████████████░░]  92% │ 神经链接已同步
+[████████████████████████] 100% │ AES-256 加密
+[█████████████████████░░░]  90% │ 多巴胺水平正常
 ```
 
 </td>
 <td>
 
 ```
-    ┌──────────────────────────┐
-    │  ░▒▓█ NEURAL CORE █▓▒░   │
-    │  USER_ID    : biberbbh   │
-    │  ACCESS     : ROOT       │
-    │  THREAT_LVL : MINIMAL    │
-    │  PROTOCOL   : TCP/IP     │
-    │  PORT       : 443        │
-    └──────────────────────────┘
+    ┌──────────────────────────────┐
+    │    ░▒▓█ 神经核心 █▓▒░         │
+    │    USER_ID    : biberbbh     │
+    │    访问级别    : ROOT        │
+    │    威胁等级    : 极低        │
+    │    协议       : TCP/IP       │
+    │    端口       : 443          │
+    │    位置       : 赛博空间     │
+    └──────────────────────────────┘
 ```
 
 </td>
@@ -48,41 +49,60 @@
 </table>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SYS_SECURE-ONLINE-00ff41?style=for-the-badge&logo=windowsterminal&logoColor=00ff41&labelColor=000000" />
-  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-00ffff?style=for-the-badge&logo=cloudflare&logoColor=00ffff&labelColor=000000" />
-  <img src="https://img.shields.io/badge/CONNECTION-STABLE-ff00ff?style=for-the-badge&logo=wireguard&logoColor=ff00ff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/系统状态-上线-00ff41?style=for-the-badge&logo=windowsterminal&logoColor=00ff41&labelColor=000000" />
+  <img src="https://img.shields.io/badge/网络连接-已加密-00ffff?style=for-the-badge&logo=cloudflare&logoColor=00ffff&labelColor=000000" />
+  <img src="https://img.shields.io/badge/信号强度-稳定-ff00ff?style=for-the-badge&logo=wireguard&logoColor=ff00ff&labelColor=000000" />
 </div>
 
 ---
 
-## 🧬 `> DNA_SEQUENCE`
-
-<div align="center">
+## 👤 `> 操作员档案 // OPERATOR_PROFILE`
 
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
+    ║                                                              ║
     ║    ██████╗ ██╗██████╗ ███████╗██████╗ ██████╗ ██████╗ ██╗  ██╗  ║
     ║    ██╔══██╗██║██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██║  ██║  ║
     ║    ██████╔╝██║██████╔╝█████╗  ██████╔╝██████╔╝██████╔╝███████║  ║
     ║    ██╔══██╗██║██╔══██╗██╔══╝  ██╔══██╗██╔══██╗██╔══██╗██╔══██║  ║
     ║    ██████╔╝██║██████╔╝███████╗██║  ██║██████╔╝██████╔╝██║  ██║  ║
     ║    ╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝  ║
+    ║                                                              ║
     ╠══════════════════════════════════════════════════════════════╣
-    ║              >>  OPERATOR ID: biberbbh  <<                   ║
-    ║              >>  CLEARANCE: TOP SECRET   <<                  ║
-    ║              >>  ZONE: CYBERSPACE       <<                   ║
+    ║                                                              ║
+    ║   「 低处未算低，高处未算高。生于赛博，不止于赛博。 」         ║
+    ║                                                              ║
+    ║   代号      : biberbbh                                       ║
+    ║   身份      : 数字游民 / 开源探索者 / 矩阵行者               ║
+    ║   技能      : 代码即是武器 · 键盘即是利刃                    ║
+    ║   信条      : "Stay hungry, stay foolish. 求知若饥, 虚心若愚" ║
+    ║   坐标      : 赛博空间 · 第7层 · 霓虹区                      ║
+    ║                                                              ║
     ╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 💬 `> 加密通讯 // ENCRYPTED_COMMS`
+
+<div align="center">
+
+```diff
++ 「 所有命运的馈赠，早已在暗中标好了价格。 」
++ 「 我们活在巨大的差距里，也在巨大的可能性里。 」
+! 「 在矩阵里，要么你驾驭代码，要么代码驾驭你。 」
+@@ 「 不要温和地走进那个良夜 —— 在赛博空间里点燃自己的光。 」 @@
 ```
 
 </div>
 
 ---
 
-## 🔮 `> TECH_STACK`
+## 🔮 `> 技术栈 // TECH_STACK`
 
 <div align="center">
 
-> **`$ nmap -sV --script tech-scan`**
+> **`$ nmap 技术扫描中...`**
 
 <br/>
 
@@ -103,7 +123,7 @@
 
 ---
 
-## 📡 `> NEURAL_STATS`
+## 📡 `> 神经数据 // NEURAL_STATS`
 
 <div align="center">
   <a href="https://github.com/biberbbh">
@@ -120,13 +140,13 @@
 
 <div align="center">
   <a href="https://github.com/biberbbh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=biberbbh&theme=react-dark&bg_color=0d1117&color=ff00ff&line=00ffff&point=ff00ff&area=true&hide_border=true&area_color=ff00ff20" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=biberbbh&theme=react-dark&bg_color=0d1117&color=ff00ff&line=00ffff&point=ff00ff&area=true&hide_border=true&area_color=ff00ff20" alt="贡献热力图" />
   </a>
 </div>
 
 ---
 
-## 🏆 `> ACHIEVEMENT_MATRIX`
+## 🏆 `> 成就矩阵 // ACHIEVEMENT_MATRIX`
 
 <div align="center">
   <a href="https://github.com/biberbbh">
@@ -136,33 +156,36 @@
 
 ---
 
-## 🕶️ `> CYBER_DECK` — Featured Operations
+## 🕶️ `> 赛博档案 // CYBER_DECK` — 行动记录
 
 <div align="center">
 
 ```diff
-+ PROTOCOL: 0xBI6ERBBH
-+ ENCRYPTION: AES-256-GCM
-! UNAUTHORIZED ACCESS WILL BE PROSECUTED
-@@ DECRYPTING MISSION LOGS... @@
++ 协议编号   : 0xBI6ERBBH
++ 加密方式   : AES-256-GCM
+! 警告：未经授权的访问将被追踪
+@@ 正在解密任务日志... @@
 ```
 
 </div>
 
-| 🟢 STATUS | 🔴 OP_ID | 🟣 CLASSIFICATION | 💾 TECH_SIG |
+| 🟢 状态 | 🔴 行动代号 | 🟣 安全等级 | 💾 技术指纹 |
 |:---:|:---|:---|:---|
-| `● ONLINE` | **OP_NYX** — The Night Protocol | `TOP SECRET` | `Rust · Solana · Anchor` |
-| `● ONLINE` | **OP_NEON** — Neon Swap Interface | `SECRET` | `TypeScript · React · Web3.js` |
-| `◐ BETA` | **OP_GHOST** — Ghost Chain Relay | `CONFIDENTIAL` | `Python · FastAPI · Docker` |
-| `○ IDLE` | **OP_PHANTOM** — Phantom Wallet Tools | `DECLASSIFIED` | `Rust · WASM · Borsh` |
+| `● 运行中` | **暗夜协议** — 链上隐私基础设施 | `最高机密` | `Rust · Solana · Anchor` |
+| `● 运行中` | **霓虹交易所** — 去中心化交易界面 | `机密` | `TypeScript · React · Web3.js` |
+| `◐ 测试中` | **幽灵中继** — 跨链消息传递 | `内部` | `Python · FastAPI · Docker` |
+| `○ 待命` | **幻影钱包** — 钱包工具集 | `公开` | `Rust · WASM · Borsh` |
 
 ---
 
-## 🧿 `> HOLOGRAPHIC_MATRIX`
+## 🧿 `> 全息矩阵 // HOLOGRAPHIC_MATRIX`
 
 <div align="center">
 
 ```
+         ╔══════════════╗  ╔══════════════╗  ╔══════════════╗  ╔══════════════╗
+         ║   霓 虹 入 侵  ║  ║   数 据 洪 流  ║  ║   代 码 即 诗  ║  ║   永 不 关 机  ║
+         ╚══════════════╝  ╚══════════════╝  ╚══════════════╝  ╚══════════════╝
          .----------------.  .----------------.  .----------------.  .----------------.
         | .--------------. || .--------------. || .--------------. || .--------------. |
         | |   _______    | || |      __      | || |    _____     | || |     ____     | |
@@ -180,27 +203,28 @@
                          ██║╚██╗██║██╔══╝  ██║   ██║██║╚██╗██║
                          ██║ ╚████║███████╗╚██████╔╝██║ ╚████║
                          ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-                              [ CYBER_DECK v2.0 // biberbbh ]
+                              [ 赛博终端 v2.0 // 霓虹行者 ]
 ```
 
 </div>
 
 ---
 
-## 🌐 `> COMM_LINK` — Establish Connection
+## 🌐 `> 通讯链路 // COMM_LINK` — 建立连接
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=000000&labelColor=ff00ff&color=000000)](https://twitter.com/biberbbh)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=00ffff&color=000000)](https://t.me/biberbbh)
+[![X](https://img.shields.io/badge/X_/_𝕏-000000?style=for-the-badge&logo=x&logoColor=000000&labelColor=ff00ff&color=000000)](https://twitter.com/biberbbh)
+[![Telegram](https://img.shields.io/badge/电报-000000?style=for-the-badge&logo=telegram&logoColor=000000&labelColor=00ffff&color=000000)](https://t.me/biberbbh)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=000000&labelColor=00ff41&color=000000)](https://discord.gg/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=ff00ff&color=000000)](mailto:biberbbh@gmail.com)
+[![Email](https://img.shields.io/badge/电子邮箱-000000?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=ff00ff&color=000000)](mailto:biberbbh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=00ffff&color=000000)](https://github.com/biberbbh)
 
 </div>
 
 ---
 
-## 🐍 `> CONTRIBUTION_SNAKE`
+## 🐍 `> 贡献之蛇 // CONTRIBUTION_SNAKE`
 
 <div align="center">
   <picture>
@@ -212,10 +236,10 @@
 
 ---
 
-## 👁️‍🗨️ `> VISITOR_COUNTER`
+## 👁️‍🗨️ `> 访客记录 // VISITOR_COUNTER`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=biberbbh&style=for-the-badge&color=ff00ff&label=GRID_VISITORS" alt="visitor counter" />
+  <img src="https://komarev.com/ghpvc/?username=biberbbh&style=for-the-badge&color=ff00ff&label=矩阵访客数" alt="visitor counter" />
 </div>
 
 ---
@@ -223,27 +247,28 @@
 <div align="center">
 
 ```bash
-> LAST_SESSION: $(date -u +"%Y-%m-%dT%H:%M:%SZ")
-> IP_ADDR:   192.168.XX.XX [REDACTED]
-> MAC_ADDR:  AA:BB:CC:DD:EE:FF [REDACTED]
-> PROXY:     ACTIVE — TOR_EXIT_NODE
-> STATUS:    SYSTEM_NOMINAL
-> MESSAGE:   "The future is already here — it's just not evenly distributed."
+> 最后会话时间 : $(date -u +"%Y-%m-%dT%H:%M:%SZ")
+> 网络地址     : 192.168.XX.XX [已隐藏]
+> 物理地址     : AA:BB:CC:DD:EE:FF [已隐藏]
+> 代理状态     : 已激活 — 洋葱路由出口节点
+> 系统状态     : 一切正常
+>
+> 「 未来已经到来 —— 只是分布不均。」
+> 「 在赛博空间里，我们都是造物主。 」
 ```
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:00ffff&height=150&section=footer&text=DISCONNECT&fontSize=30&fontColor=000000&fontAlignY=65&animation=fadeIn&desc=%E2%96%B6%20END_TRANSMISSION&descSize=16&descColor=ff00ff&descAlignY=85)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:ff00ff,100:00ffff&height=150&section=footer&text=断开连接&fontSize=30&fontColor=000000&fontAlignY=65&animation=fadeIn&desc=%E2%96%B6%20%E4%BC%A0%E8%BE%93%E7%BB%93%E6%9D%9F&descSize=16&descColor=ff00ff&descAlignY=85)
 
 </div>
 
 <!--
   ╔══════════════════════════════════════════════════════╗
-  ║  CYBERDECK PROFILE // biberbbh                      ║
-  ║  "We are all hackers now —                          ║
-  ║   some of us just don't know it yet."               ║
-  ║  — William Gibson                                   ║
+  ║  赛博终端 // biberbbh                               ║
+  ║  "真正的黑客精神，不是破坏，而是创造。"              ║
+  ║  — 赛博空间，无限可能                                ║
   ╚══════════════════════════════════════════════════════╝
 -->
