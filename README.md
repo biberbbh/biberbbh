@@ -1,3 +1,5 @@
+<!-- PROFILE README — github.com/biberbbh -->
+
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff00ff&height=220&section=header&text=SYS::AUTH%20—%20biberbbh&fontSize=52&fontColor=000000&fontAlignY=35&animation=fadeIn&desc=ACCESSING_THE_GRID...&descSize=18&descColor=00ffff&descAlignY=55)
