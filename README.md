@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=140&section=header&text=&fontSize=0&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=140&section=header&text=&fontSize=0)
 
 </div>
 
@@ -44,6 +44,15 @@
   <img src="https://raw.githubusercontent.com/biberbbh/biberbbh/main/assets/divider.svg" alt="" width="400" />
 </div>
 
+<!-- 🐍 Snake contribution grid animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biberbbh/biberbbh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biberbbh/biberbbh/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biberbbh/biberbbh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <a href="https://twitter.com/biberbbh"><img src="https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=111&labelColor=ff00ff" /></a>
   <a href="https://t.me/biberbbh"><img src="https://img.shields.io/badge/TG-000?style=flat-square&logo=telegram&logoColor=111&labelColor=00ffff" /></a>
@@ -52,6 +61,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=80&section=footer&fontSize=0&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=80&section=footer&fontSize=0)
 
 </div>
